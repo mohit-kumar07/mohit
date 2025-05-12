@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xxmohit
+- 👋 Hi, I’m @mohit-kumar07
 - 👀 I’m interested in coding and programing.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning Linux and ServiceNow Platform.
 - 📫 You can reach me  @mohitprajapati7240@gmail.com
 
 <!---
